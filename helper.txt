@@ -1,0 +1,11 @@
+"name": "landing-mixer.com.ua.loc"
+
+/assets
+  |  /css
+  |  /img
+  |  /js
+  |  /scss
+/libs
+  |  /bootstrap
+  |  /jquery
+index.html
